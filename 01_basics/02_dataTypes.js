@@ -4,7 +4,7 @@
 
 //primitive dataTypes
 let name = "Faraz"                     //string
-let age = 20                          //number  => 2 to the power of 52
+let age = 20                          //number  => {(2 to the power of 53) - 1} integers
 let stockPrice = 900719925124740998n // bigInt 
 let isLoggedIn  = true               //boolean => true/false
 let state;                          // undefined => the value is not declared yet
